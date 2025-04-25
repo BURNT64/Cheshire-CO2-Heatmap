@@ -44,3 +44,5 @@ This script was integrated into a mobile prototype (designed in Figma) that disp
 Copy the link below into your broswer of choice to access the data used in this script
 
 https://digital-land.github.io/organisation/local-authority-eng/CHW/
+
+Scroll to the bottom of the page and click **Download the boundary GeoJSON**.
